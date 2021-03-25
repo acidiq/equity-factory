@@ -1,0 +1,9 @@
+{
+	"name": "equity-factory",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a6a268cf-d303-41e0-9f47-4f73e0c74ffd",
+		"tenantId": "214350b3-94d3-42f2-8ddf-adb4331888a3"
+	}
+}
