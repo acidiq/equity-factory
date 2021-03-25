@@ -1,0 +1,11 @@
+{
+	"name": "HunterKeyVault",
+	"properties": {
+		"description": "A link to Azure Key Vault",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://hunter-key-vault.vault.azure.net/"
+		}
+	}
+}
